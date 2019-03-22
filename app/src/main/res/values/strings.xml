@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Fildesign</string>
+    <string name="action_settings">Settings</string>
+    <string name="interior">Interior</string>
+    <string name="exterior">Exterior</string>
+    <string name="mec_nica">Mecânica</string>
+    <string name="servi_os_feitos">Serviços Feitos</string>
+</resources>
