@@ -5,4 +5,5 @@
     <string name="exterior">Exterior</string>
     <string name="mec_nica">Mecânica</string>
     <string name="servi_os_feitos">Serviços Feitos</string>
+    <string name="title_activity_pagina_interior">PaginaInterior</string>
 </resources>

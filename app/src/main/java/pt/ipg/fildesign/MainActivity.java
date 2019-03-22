@@ -41,6 +41,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 Toast.makeText(getApplicationContext(), "Carregou em Interior", Toast.LENGTH_SHORT).show();
+                setContentView(R.layout.activity_pagina_interior);
             }
         });
         botao1.setOnClickListener(new View.OnClickListener() {
